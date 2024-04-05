@@ -1,0 +1,17 @@
+* {
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.card {
+    width: 18%;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    background-color: bisque;
+    border-radius: 5px;
+}   
